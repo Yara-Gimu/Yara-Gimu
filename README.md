@@ -1,7 +1,7 @@
 👋 Hi, I'm Yara!
 
-🎮 A passionate gamer aspiring to create immersive video games.
+🎮 I'm a Game designer.
 
-💻 Currently studying Computer Science, building a solid foundation in coding and game development.
+💻 studying Computer Science, game development, AI.
 
-🎨 Skilled in Figma for design and AI for innovative solutions.
+🎨 UI designer at Figma.
