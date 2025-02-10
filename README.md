@@ -1,7 +1,9 @@
 👋 Hi, I'm Yara!
 
-🎮 I'm a Game designer.
+🎮 Co-founder of GIMU Studio, where I create fun and innovative games. 
 
-💻 studying Computer Science, game development, AI.
+📊 Currently learning Elasticsearch and Kibana for data analysis. 
 
-🎨 UI designer at Figma.
+I enjoy working with Figma for UI design and Arduino for electronics projects.
+
+Always excited to learn new skills and explore creative projects! 🔥
